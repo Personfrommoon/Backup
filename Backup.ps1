@@ -1,5 +1,5 @@
 $ServerInstance = "backups"
-$DatabaseName = "rimi_kristofervalk.sql"
+$DatabaseName = "Rimi_KristoferValk.sql"
 $BackupDir = "C:\users\backups\databases"
 $BackupFile = "${BackupDir}\${DatabaseName}"
 
